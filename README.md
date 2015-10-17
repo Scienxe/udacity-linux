@@ -1,4 +1,6 @@
 # Udacity Full Stack: Linux Server Config
+This README contains instructions to set up a new Linux server instance to meet the requirements of Udacity Full Stack NanoDegree Project 5.
+
 
 ## User Setup
 1. Create new development environment through provided Udacity page
@@ -159,7 +161,7 @@ Rename the main catalog.py app file to \_\_init\_\_.py.
 Visit the console of any third-party auth providers and update the authorized addresses to include the new hostname.
 
 ## Open the new hostname in a web browser
-For my catalog app, visit [Udacious Musical Instruments](http://ec2-54-68-165-124.us-west-2.compute.amazonaws.com/catalog/).
+For my catalog app, visit [Udacious Musical Instruments](http://ec2-54-68-165-124.us-west-2.compute.amazonaws.com/).
 
 ## Resources
 In addition to the pages linked above, thanks are due to the following authors of extremely helpful resources:
