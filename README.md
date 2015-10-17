@@ -1,6 +1,5 @@
 # Udacity Full Stack: Linux Server Config
-This README contains instructions to set up a new Linux server instance to meet the requirements of Udacity Full Stack NanoDegree Project 5.
-
+This README contains instructions to set up a new Linux server instance to meet the requirements of Udacity Full Stack NanoDegree Project 5. This project lives at [http://ec2-54-68-165-124.us-west-2.compute.amazonaws.com/](http://ec2-54-68-165-124.us-west-2.compute.amazonaws.com/) and ssh access is via 54.68.165.124:2200.
 
 ## User Setup
 1. Create new development environment through provided Udacity page
